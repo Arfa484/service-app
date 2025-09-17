@@ -43,6 +43,7 @@
     }
   ],
   "hosting": {
+    "site": "servana-8a6f3", 
     "public": "build/web",
     "ignore": [
       "firebase.json",
