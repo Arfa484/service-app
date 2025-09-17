@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "414915772944",
+    "project_id": "servana-8a6f3",
+    "storage_bucket": "servana-8a6f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414915772944:android:75fa60509fdf77687ac095",
+        "android_client_info": {
+          "package_name": "com.arfaa.servana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfhLOaIeQpZHb9feDRivwMz_hq3VvEmII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414915772944:android:2c0354cca2e47ae67ac095",
+        "android_client_info": {
+          "package_name": "com.example.flutter_complete_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfhLOaIeQpZHb9feDRivwMz_hq3VvEmII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
